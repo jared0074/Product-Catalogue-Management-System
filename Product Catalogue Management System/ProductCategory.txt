@@ -1,0 +1,3 @@
+C15	Mobile	Portable Phone
+C03	Laptop	Mobile Desktop
+C02	Iron	For ironing shirts

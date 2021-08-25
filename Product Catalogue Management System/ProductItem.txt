@@ -1,0 +1,2 @@
+I000101	Samsung	S10	C15	23	3000.0	Better than S9, a simple mobile phone	C:\Users\honsm\Documents\NetBeansProjects\Assignment\S10.jpeg	S001	
+I000102	sdfgdfsf	djjdf	C15	32	123432.0	srdgert	C:\Users\honsm\Documents\NetBeansProjects\Assignment\AsusROG.jpeg	S001	

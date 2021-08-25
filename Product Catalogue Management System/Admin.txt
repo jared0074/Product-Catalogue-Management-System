@@ -1,0 +1,4 @@
+A001	master123	Jared	32,Medan Kurau 2, Taman Chai Leng, 14000 Bukit Mertajam	jared@gmail.com	Active	
+A002	qwe123	Philip	Jln Austin, Taman Austin, Johor	soong@hotmailcom	Active	
+A003	hello	Bryen	Jln Sabah, Sarawak	voo@yahoo.com	Active
+A004	ABC123	Ding Hang	Jln Skudai, Johor	Chuah@msn.com	Active	

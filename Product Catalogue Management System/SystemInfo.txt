@@ -1,0 +1,91 @@
+Admin	A001	Login	Success	Mon Dec 02 07:15:17 SGT 2019
+Admin	A001	Logout	Success	Mon Dec 02 07:15:19 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 07:46:53 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 08:05:52 SGT 2019
+Admin	A001	Login	Fail	Mon Dec 02 08:07:44 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 08:07:48 SGT 2019
+Product Manager	P003	Login	Fail	Mon Dec 02 08:32:46 SGT 2019
+Product Manager	P003	Login	Success	Mon Dec 02 08:33:01 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 11:20:04 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 11:20:45 SGT 2019
+Admin	A001	Logout	Success	Mon Dec 02 11:23:41 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 11:23:47 SGT 2019
+Product Manager	P001	Logout	Success	Mon Dec 02 11:24:39 SGT 2019
+Product Manager	P002	Login	Success	Mon Dec 02 11:25:13 SGT 2019
+Supplier	S001	Login	Fail	Mon Dec 02 11:25:33 SGT 2019
+Supplier	S002	Login	Success	Mon Dec 02 11:25:52 SGT 2019
+Product Manager	P001	Login	Fail	Mon Dec 02 12:02:18 SGT 2019
+Product Manager	P002	Login	Fail	Mon Dec 02 12:02:23 SGT 2019
+Product Manager	P002	Login	Fail	Mon Dec 02 12:02:28 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:02:52 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:26:10 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:28:15 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:29:46 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:30:52 SGT 2019
+Product Manager	P001	Login	Success	Mon Dec 02 12:33:13 SGT 2019
+Product Manager	P001	Logout	Success	Mon Dec 02 12:34:49 SGT 2019
+Supplier	S001	Login	Fail	Mon Dec 02 12:34:56 SGT 2019
+Supplier	S001	Login	Success	Mon Dec 02 12:35:16 SGT 2019
+Supplier	S001	Logout	Success	Mon Dec 02 12:35:26 SGT 2019
+Supplier	S003	Login	Success	Mon Dec 02 12:35:43 SGT 2019
+Product Manager	P003	Login	Success	Mon Dec 02 12:36:08 SGT 2019
+Product Manager	P003	Login	Success	Mon Dec 02 12:37:48 SGT 2019
+Admin	A001	Login	Fail	Mon Dec 02 13:31:28 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 13:31:37 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 14:22:35 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 14:32:56 SGT 2019
+Admin	A001	Login	Success	Mon Dec 02 17:07:43 SGT 2019
+Admin	A001	Logout	Success	Mon Dec 02 17:14:28 SGT 2019
+Admin	A001	Login	Success	Wed Dec 04 01:49:51 SGT 2019
+Admin	A001	Logout	Success	Wed Dec 04 01:50:45 SGT 2019
+Invalid	owi1203	Login	Fail	Wed Dec 04 01:54:57 SGT 2019
+Admin	AB01	Login	Fail	Wed Dec 04 01:55:21 SGT 2019
+Admin	AB01	Login	Fail	Wed Dec 04 01:55:34 SGT 2019
+Admin	A001	Login	Success	Wed Dec 04 01:55:42 SGT 2019
+Admin	A001	Logout	Success	Wed Dec 04 01:57:51 SGT 2019
+Admin	A001	Login	Fail	Wed Dec 04 01:57:58 SGT 2019
+Admin	A001	Login	Success	Wed Dec 04 01:58:02 SGT 2019
+Admin	A001	Logout	Success	Wed Dec 04 02:18:32 SGT 2019
+Admin	A001	Login	Success	Wed Dec 04 02:18:41 SGT 2019
+Admin	A001	Logout	Success	Wed Dec 04 02:18:48 SGT 2019
+Invalid	M001	Login	Fail	Wed Dec 04 02:18:58 SGT 2019
+Product Manager	P001	Login	Success	Wed Dec 04 02:19:12 SGT 2019
+Product Manager	P001	Logout	Success	Wed Dec 04 02:28:45 SGT 2019
+Admin	A001	Login	Success	Wed Dec 04 16:24:46 SGT 2019
+Admin	A001	Login	Fail	Wed Dec 04 16:25:10 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 10:24:16 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 10:24:56 SGT 2019
+Product Manager	P001	Login	Success	Thu Dec 05 10:25:05 SGT 2019
+Admin	A001	Login	Fail	Thu Dec 05 10:55:16 SGT 2019
+Admin	A001	Login	Fail	Thu Dec 05 10:55:24 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 10:55:37 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 10:55:41 SGT 2019
+Product Manager	P001	Login	Success	Thu Dec 05 10:55:53 SGT 2019
+Product Manager	P001	Logout	Success	Thu Dec 05 10:55:56 SGT 2019
+Supplier	S001	Login	Fail	Thu Dec 05 10:56:06 SGT 2019
+Supplier	S001	Login	Success	Thu Dec 05 10:56:48 SGT 2019
+Supplier	S001	Logout	Success	Thu Dec 05 10:57:00 SGT 2019
+Supplier	S001	Logout	Success	Thu Dec 05 10:57:00 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 10:57:09 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 10:57:19 SGT 2019
+Product Manager	P004	Login	Success	Thu Dec 05 10:57:53 SGT 2019
+Product Manager	P004	Logout	Success	Thu Dec 05 10:58:04 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 10:58:16 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 10:58:47 SGT 2019
+Supplier	S002	Login	Success	Thu Dec 05 10:59:08 SGT 2019
+Supplier	S002	Logout	Success	Thu Dec 05 10:59:20 SGT 2019
+Product Manager	P001	Login	Success	Thu Dec 05 10:59:41 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 11:18:52 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 11:22:13 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 11:22:32 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 11:25:42 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 11:26:01 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 11:58:44 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 12:02:44 SGT 2019
+Admin	A001	Login	Success	Thu Dec 05 12:02:58 SGT 2019
+Admin	A001	Logout	Success	Thu Dec 05 12:03:20 SGT 2019
+Product Manager	P001	Login	Success	Thu Dec 05 12:03:33 SGT 2019
+Admin	A001	Login	Fail	Fri Dec 20 14:05:17 SGT 2019
+Admin	A001	Login	Success	Fri Dec 20 14:05:21 SGT 2019
+Invalid	admin	Login	Fail	Mon Jun 29 13:54:26 SGT 2020
+Admin	A001	Login	Success	Mon Jun 29 13:55:09 SGT 2020
